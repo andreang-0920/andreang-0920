@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreang-0920
 - 👀 I’m interested in sports and making websites
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @andreang_0920 (Twitter) @louisgram920 (Instagram)
 
