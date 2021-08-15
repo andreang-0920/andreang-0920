@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @andreang-0920
-- 👀 I’m interested in sports and making websites
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... @andreang_0920 (Twitter) @louisgram920 (Instagram)
+Hi, I am Andre. I am a 18 year old Actuarial Science student from Heriot-Watt University Malaysia.
+
+I enjoy learning to code and read newsletters.
+
+I am glad to connect with you at Twitter (@andrelouis920).
 
 <!---
 andreang-0920/andreang-0920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
