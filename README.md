@@ -1,8 +1,12 @@
-Hi, I am Andre. I am a 18 year old Actuarial Science student from Heriot-Watt University Malaysia.
+Hi everyone, I am Andre. I am an 18 year old Actuarial Science student from Heriot-Watt University Malaysia.
 
-I enjoy learning to code and read newsletters.
+I started my coding journey using Java, and I learned Web Development a few months later.
 
-I am glad to connect with you at Twitter (@andrelouis920).
+I am currently learning SQL and Python.
+
+I enjoy learning to code and reading newsletters.
+
+I am glad to connect with you at Twitter & Instagram (@andrelouis920).
 
 <!---
 andreang-0920/andreang-0920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
