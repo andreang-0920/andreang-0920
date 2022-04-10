@@ -1,6 +1,4 @@
-Hi everyone, I am Andre. I am an 18 year old Actuarial Science student from Heriot-Watt University Malaysia.
-
-I am glad to connect with you at Twitter & Instagram (@andrelouis920).
+A 20-year-old Actuarial Science student passionate in maths, coding and writing.
 
 <!---
 andreang-0920/andreang-0920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
